@@ -1,7 +1,0 @@
-C:\Users\Mystic\Downloads\plugins scpsl\LastTeamAlive\bin\Release\net48\LastTeamAlive.dll
-C:\Users\Mystic\Downloads\plugins scpsl\LastTeamAlive\bin\Release\net48\LastTeamAlive.pdb
-C:\Users\Mystic\Downloads\plugins scpsl\LastTeamAlive\obj\Release\net48\LastTeamAlive.csproj.AssemblyReference.cache
-C:\Users\Mystic\Downloads\plugins scpsl\LastTeamAlive\obj\Release\net48\LastTeamAlive.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mystic\Downloads\plugins scpsl\LastTeamAlive\obj\Release\net48\LastTeamAlive.csproj.CoreCompileInputs.cache
-C:\Users\Mystic\Downloads\plugins scpsl\LastTeamAlive\obj\Release\net48\LastTeamAlive.dll
-C:\Users\Mystic\Downloads\plugins scpsl\LastTeamAlive\obj\Release\net48\LastTeamAlive.pdb
