@@ -1,3 +1,0 @@
-C:\Users\Mystic\Downloads\plugins scpsl\ShootingInteractions-2.6.0\ShootingInteractions-2.6.0\ShootingInteractions\obj\Debug\net48\ShootingInteractions.csproj.AssemblyReference.cache
-C:\Users\Mystic\Downloads\plugins scpsl\ShootingInteractions-2.6.0\ShootingInteractions-2.6.0\ShootingInteractions\obj\Debug\net48\ShootingInteractions.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mystic\Downloads\plugins scpsl\ShootingInteractions-2.6.0\ShootingInteractions-2.6.0\ShootingInteractions\obj\Debug\net48\ShootingInteractions.csproj.CoreCompileInputs.cache
