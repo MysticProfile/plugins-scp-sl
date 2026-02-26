@@ -1,0 +1,3 @@
+c:\Users\Mystic\Downloads\plugins scpsl\ScpContainAnnouncer\obj\Release\net48\ScpContainAnnouncer.csproj.AssemblyReference.cache
+c:\Users\Mystic\Downloads\plugins scpsl\ScpContainAnnouncer\obj\Release\net48\ScpContainAnnouncer.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mystic\Downloads\plugins scpsl\ScpContainAnnouncer\obj\Release\net48\ScpContainAnnouncer.csproj.CoreCompileInputs.cache
