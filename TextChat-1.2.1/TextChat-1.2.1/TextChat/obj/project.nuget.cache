@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZwgM/zjPxnQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mystic\\Downloads\\plugins scpsl\\TextChat-1.2.1\\TextChat-1.2.1\\TextChat\\TextChat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mystic\\.nuget\\packages\\northwood.labapi\\1.1.3\\northwood.labapi.1.1.3.nupkg.sha512",
+    "C:\\Users\\Mystic\\.nuget\\packages\\yamldotnet\\11.0.1\\yamldotnet.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

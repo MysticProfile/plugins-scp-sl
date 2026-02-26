@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = TextChat
+build_property.ProjectDir = C:\Users\Mystic\Downloads\TextChat-1.2.1\TextChat-1.2.1\TextChat\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

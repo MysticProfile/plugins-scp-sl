@@ -1,0 +1,10 @@
+C:\Users\Mystic\Downloads\TextChat-1.2.1\TextChat-1.2.1\TextChat\bin\Debug\net48\LabApi.dll
+C:\Users\Mystic\Downloads\TextChat-1.2.1\TextChat-1.2.1\TextChat\bin\Debug\net48\YamlDotNet.dll
+C:\Users\Mystic\Downloads\TextChat-1.2.1\TextChat-1.2.1\TextChat\obj\Debug\net48\TextChat.csproj.AssemblyReference.cache
+C:\Users\Mystic\Downloads\TextChat-1.2.1\TextChat-1.2.1\TextChat\obj\Debug\net48\TextChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mystic\Downloads\TextChat-1.2.1\TextChat-1.2.1\TextChat\obj\Debug\net48\TextChat.csproj.CoreCompileInputs.cache
+C:\Users\Mystic\Downloads\TextChat-1.2.1\TextChat-1.2.1\TextChat\obj\Debug\net48\TextChat.csproj.Up2Date
+C:\Users\Mystic\Downloads\TextChat-1.2.1\TextChat-1.2.1\TextChat\bin\Debug\net48\TextChatv2.dll
+C:\Users\Mystic\Downloads\TextChat-1.2.1\TextChat-1.2.1\TextChat\bin\Debug\net48\TextChatv2.pdb
+C:\Users\Mystic\Downloads\TextChat-1.2.1\TextChat-1.2.1\TextChat\obj\Debug\net48\TextChatv2.dll
+C:\Users\Mystic\Downloads\TextChat-1.2.1\TextChat-1.2.1\TextChat\obj\Debug\net48\TextChatv2.pdb
