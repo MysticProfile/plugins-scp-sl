@@ -1,3 +1,0 @@
-C:\Users\Mystic\Downloads\plugins scpsl\MvpSystem\obj\Debug\net48\MvpSystem.csproj.AssemblyReference.cache
-C:\Users\Mystic\Downloads\plugins scpsl\MvpSystem\obj\Debug\net48\MvpSystem.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mystic\Downloads\plugins scpsl\MvpSystem\obj\Debug\net48\MvpSystem.csproj.CoreCompileInputs.cache
