@@ -1,3 +1,0 @@
-c:\Users\Mystic\Downloads\plugins scpsl\RagdollCleaner\obj\Debug\net48\RagdollCleaner.csproj.AssemblyReference.cache
-c:\Users\Mystic\Downloads\plugins scpsl\RagdollCleaner\obj\Debug\net48\RagdollCleaner.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\Mystic\Downloads\plugins scpsl\RagdollCleaner\obj\Debug\net48\RagdollCleaner.csproj.CoreCompileInputs.cache
