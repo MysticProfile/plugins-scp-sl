@@ -1,3 +1,0 @@
-C:\Users\Mystic\Downloads\plugins scpsl\GuardEscapeToMTF\obj\Debug\net48\GuardEscapeToMTF.csproj.AssemblyReference.cache
-C:\Users\Mystic\Downloads\plugins scpsl\GuardEscapeToMTF\obj\Debug\net48\GuardEscapeToMTF.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mystic\Downloads\plugins scpsl\GuardEscapeToMTF\obj\Debug\net48\GuardEscapeToMTF.csproj.CoreCompileInputs.cache
