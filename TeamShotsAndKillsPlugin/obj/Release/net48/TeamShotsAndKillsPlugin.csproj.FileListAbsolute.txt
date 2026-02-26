@@ -1,3 +1,0 @@
-c:\Users\Mystic\Downloads\contaiment breach\TeamShotsAndKills\TeamShotsAndKillsPlugin\obj\Release\net48\TeamShotsAndKillsPlugin.csproj.AssemblyReference.cache
-c:\Users\Mystic\Downloads\contaiment breach\TeamShotsAndKills\TeamShotsAndKillsPlugin\obj\Release\net48\TeamShotsAndKillsPlugin.GeneratedMSBuildEditorConfig.editorconfig
-c:\Users\Mystic\Downloads\contaiment breach\TeamShotsAndKills\TeamShotsAndKillsPlugin\obj\Release\net48\TeamShotsAndKillsPlugin.csproj.CoreCompileInputs.cache
