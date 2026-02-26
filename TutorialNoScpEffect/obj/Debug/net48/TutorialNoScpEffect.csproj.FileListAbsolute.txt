@@ -1,0 +1,3 @@
+C:\Users\Mystic\Downloads\plugins scpsl\TutorialNoScpEffect\obj\Debug\net48\TutorialNoScpEffect.csproj.AssemblyReference.cache
+C:\Users\Mystic\Downloads\plugins scpsl\TutorialNoScpEffect\obj\Debug\net48\TutorialNoScpEffect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mystic\Downloads\plugins scpsl\TutorialNoScpEffect\obj\Debug\net48\TutorialNoScpEffect.csproj.CoreCompileInputs.cache
