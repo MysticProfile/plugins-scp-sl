@@ -1,3 +1,0 @@
-C:\Users\Mystic\Downloads\plugins scpsl\Scp914VeryFineEffects\obj\Release\net48\Scp914VeryFineEffects.csproj.AssemblyReference.cache
-C:\Users\Mystic\Downloads\plugins scpsl\Scp914VeryFineEffects\obj\Release\net48\Scp914VeryFineEffects.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Mystic\Downloads\plugins scpsl\Scp914VeryFineEffects\obj\Release\net48\Scp914VeryFineEffects.csproj.CoreCompileInputs.cache
